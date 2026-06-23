@@ -1,2 +1,3 @@
 extends:
-  - VenomSecurity1/mergify-test
+  - repo: VenomSecurity1/mergify-test
+    ref: main

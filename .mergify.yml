@@ -1,2 +1,1 @@
-extends:
-  - mergify-test
+extends: mergify-test

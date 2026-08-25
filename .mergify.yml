@@ -1,1 +1,1 @@
-extends: stale-auth-test
+extends: mergify-test
